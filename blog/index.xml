@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Servi-tek Engineering And Facility Services</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Servi-tek Engineering And Facility Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 23:19:07 +0800</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Four Ways To Conserve Energy At Your Facility</title>
+      <link>/blog/2018/10/four-ways-to-conserve-energy-at-your-facility/</link>
+      <pubDate>Thu, 18 Oct 2018 23:19:07 +0800</pubDate>
+      
+      <guid>/blog/2018/10/four-ways-to-conserve-energy-at-your-facility/</guid>
+      <description>As a business owner, you&amp;rsquo;ve seen firsthand how energy (or, more specifically, wasted energy) costs quickly add up. Excessive electricity consumption in commercial buildings is a national epidemic. Recent statistics from the U.S. Environmental Protection Agency (EPA) estimates that a typical facility wastes, on average, 30% of its overall energy use.
+Reduce Your Carbon Footprint (And Utility Bills) Many entrepreneurs assume that energy inefficiency is just the cost of doing business, particularly for operations in buildings outfitted before &amp;ldquo;smart&amp;rdquo; innovations and technologies.</description>
+    </item>
+    
+    <item>
+      <title>Servi-Tek Raises The Bar On Engineering &amp; Facility Management Services</title>
+      <link>/blog/2018/09/raises-the-bar-on-engineering-facility-management-services/</link>
+      <pubDate>Wed, 12 Sep 2018 23:19:07 +0800</pubDate>
+      
+      <guid>/blog/2018/09/raises-the-bar-on-engineering-facility-management-services/</guid>
+      <description>Servi-Tek’s engineering and facility/property management services offer one-stop interior and exterior commercial building solutions to keep your office spaces running at top capacity. We partner with clients of every size and across a multitude of industries to carefully assess your current facility processes. Servi-Tek’s team of experienced engineers and property management specialists pinpoint operational breakdowns to optimize efficiency and productivity, both internally as well as within your current customer base.</description>
+    </item>
+    
+  </channel>
+</rss>

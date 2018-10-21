@@ -1,0 +1,19 @@
+/* custom styles */
+
+.bg-hero {
+  background-color: rgba(29,67,156,0.8);
+}
+
+
+.open-sans {
+  font-family: "Open Sans";
+}
+
+.primary-color {
+  color: rgba(29,67,156,1.0);
+}
+
+article h2 {
+  font-size: 1.25rem;
+  font-weight: 200;
+}
